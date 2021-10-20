@@ -1,0 +1,4 @@
+# whitelist version controlled files
+*
+!.gitignore
+!README.md
